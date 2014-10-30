@@ -13,7 +13,9 @@ A Codeigniter install using a the [Twitter Bootstrap ](http://twitter.github.com
 - composer install,
 - bower install,
 - npm install,
-- grunt bower_concat
+- Then, from the command line:
+    - Install grunt-cli globally with npm install -g grunt-cli.
+Navigate to the root /bootstrap/ directory, then run npm install. npm will look at the package.json file and automatically install the necessary local dependencies listed there.
 
 
 ##

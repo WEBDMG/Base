@@ -31,3 +31,5 @@ Temporary Items
 /tools/
 /bower_components/
 /node_modules/
+
+composer.lock
