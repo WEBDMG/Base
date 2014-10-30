@@ -10,7 +10,11 @@ A Codeigniter install using a the [Twitter Bootstrap ](http://twitter.github.com
 
 ## Usage
 
-Bower Install to install dependences.
+- composer install,
+- bower install,
+- npm install,
+- grunt bower_concat
+
 
 ##
 Developed by [WEBDMG ](http://www.webdmg.com)

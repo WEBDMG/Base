@@ -1,0 +1,23 @@
+{
+  "name": "Base",
+  "version": "1.0.0",
+  "description": "Codeigniter with a Twitter Bootstrap Baked In. A Codeigniter install using a the [Twitter Bootstrap ](http://twitter.github.com/bootstrap/) [Twitter Bootstrap Basic Marketing Site](http://twitter.github.com/bootstrap/examples.html) template.",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WEBDMG/Base.git"
+  },
+  "author": "WEBDMG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WEBDMG/Base/issues"
+  },
+  "homepage": "https://github.com/WEBDMG/Base",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-bower-concat": "^0.4.0"
+  }
+}
