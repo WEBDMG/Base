@@ -1,12 +1,21 @@
 {
-    "name": "kincade71/base",
-    "require": {
-        "webdmg/system-c":"0.1.2"
-    },
-    "authors": [
-        {
-            "name": "webdmg",
-            "email": "richard.robinson@webdmg.com"
-        }
-    ]
+	"name": "webdmg/base",
+	"homepage": "https://webdmg.com",
+	"license": "MIT",
+	"authors": [
+			{
+					"name": "webdmg",
+					"email": "richard.robinson@webdmg.com"
+			}
+	],
+	"require": {
+		"php": ">=5.2.4",
+		"webdmg/system-c":"v3.0.6"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
+	}
 }
