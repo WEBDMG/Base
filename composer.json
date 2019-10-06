@@ -11,8 +11,7 @@
 	],
 	"require": {
 		"php": ">=5.2.4",
-		"webdmg/system-c":"v3.0.6",
-		"webdmg/gathr-lib":"1.0.1"
+		"webdmg/system-c":"v3.0.6"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
