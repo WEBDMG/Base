@@ -1,16 +1,18 @@
 {
 	"name": "webdmg/base",
 	"homepage": "https://webdmg.com",
+	"description": "Codeigniter base install.",
 	"license": "MIT",
 	"authors": [
-			{
-					"name": "webdmg",
-					"email": "richard.robinson@webdmg.com"
-			}
+		{
+			"name": "webdmg",
+			"email": "richard.robinson@webdmg.com"
+		}
 	],
 	"require": {
 		"php": ">=5.2.4",
-		"webdmg/system-c":"v3.0.6"
+		"webdmg/system-c":"v3.0.6",
+		"webdmg/gathr-lib":"1.0.1"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
