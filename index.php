@@ -96,8 +96,7 @@ switch (ENVIRONMENT)
  *
  * This variable must contain the name of your "system" directory.
  * Set the path if it is not in the same directory as this file.
- * 	vendor/bootstrap/dist/css/bootstrap.min.css
- * vendor/bootstrap/dist/js/bootstrap.min.js
+ * 	
  */
 	$system_path = 'vendor/webdmg/system-c/system';
 
